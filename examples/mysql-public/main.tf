@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#Test 07
+#Test 08
 resource "random_id" "name" {
   byte_length = 2
 }
